@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">AndroidRTC</string>
-    <string name="host">ns37269.ip-91-121-3.eu</string>
-    <string name="port">3000</string>
+    <string name="host_old">ns37269.ip-91-121-3.eu</string>
+    <string name="host">webrtc-scratch.193b.starter-ca-central-1.openshiftapps.com</string>
+    <string name="port_old">3000</string>
+    <string name="port">80</string>
     <string name="action_settings">Options</string>
 </resources>
